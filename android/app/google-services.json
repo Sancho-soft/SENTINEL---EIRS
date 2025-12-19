@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324707764180",
+    "project_id": "sentinel-eirs",
+    "storage_bucket": "sentinel-eirs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324707764180:android:472841b0e3e7b7ee233841",
+        "android_client_info": {
+          "package_name": "com.example.sentinel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2mHKdzYEtR13_XYPHS6mzLItp9N7yaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
